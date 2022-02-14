@@ -4,16 +4,16 @@ public class IfElseIfElseExample {
 
 	public static void main(String[] args) {
 		
-		int score = 95;
+		int score = 75;
 		
-		if ( score >=90 ) {
-			System.out.println("등급은 A입니다");
+		if (score >=90) {
 			if (score >=95) {
-				System.out.println("등급은 A+입니다");
+				System.out.println("등급은 A입니다");
+			
 			}
 			System.out.println("점수가 90~100점사이입니다");
-		
-		}else if (score >=80) {
+			System.out.println("등급은 A입니다");
+		} else if (score >=80) {
 			System.out.println("점수가 80~89사이입니다");
 			System.out.println("등급은 B입니다.");
 			
