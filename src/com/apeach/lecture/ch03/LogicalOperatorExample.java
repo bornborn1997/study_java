@@ -18,7 +18,7 @@ public class LogicalOperatorExample {
 		}
 
 		int value = 6;
-		if( (value%2==
+	
 	}
 
 }

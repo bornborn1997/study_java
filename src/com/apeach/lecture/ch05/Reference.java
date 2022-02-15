@@ -13,6 +13,15 @@ public class Reference {
 //		 	2.3 클래스
 //		 	2.4 인터페이스 
 //
+		
+		String str1= null;
+		String str2 = "";
+		String str3; 
+		
+		if(str1==str2) {
+			
+		}
+		str1.equals(str2);
 	}
 
 }
